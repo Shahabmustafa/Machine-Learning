@@ -1,0 +1,35 @@
+Name,Symbol,Code,Countries,Digits,Number
+UK Pound,£,GBP,"Guernsey,Isle Of Man,Jersey,United Kingdom Of Great Britain And Northern Ireland (The)",2,826
+Czech Koruna,Kč,CZK,"Czechia",2,203
+Latvian Lat,Ls,LVL,,,
+Swiss Franc,CHF,CHF,"Liechtenstein,Switzerland",2,756
+Croatian Kruna,kn,HRK,"Croatia",2,191
+Danish Krone,kr,DKK,"Denmark,Faroe Islands (The),Greenland",2,208
+Korean Won,₩,KRW,"Korea (The Republic Of)",0,410
+Swedish Krona,kr,SEK,"Sweden",2,752
+Turkish Lira,₤,TRY,"Turkey",2,949
+Hungarian Forint,Ft,HUF,"Hungary",2,348
+Brazilian Real,R$,BRL,"Brazil",2,986
+Lithuanian Litas,Lt,LTL,,,
+Bulgarian Lev,лB,BGN,"Bulgaria",2,975
+Polish Zloty,zł,PLN,"Poland",2,985
+US Dollar,$,USD,"American Samoa,Bonaire, Sint Eustatius And Saba,British Indian Ocean Territory (The),Ecuador,El Salvador,Guam,Haiti,Marshall Islands (The),Micronesia (Federated States Of),Northern Mariana Islands (The),Palau,Panama,Puerto Rico,Timor-Leste,Turks And Caicos Islands (The),United States Minor Outlying Islands (The),United States Of America (The),Virgin Islands (British),Virgin Islands (U.S.)",2,840
+Russian Ruble,руб,RUB,"Russian Federation (The)",2,643
+Japanese Yen,¥,JPY,"Japan",0,392
+Romanian New Leu,lei,RON,"Romania",2,946
+Norwegian Krone,kr,NOK,"Bouvet Island,Norway,Svalbard And Jan Mayen",2,578
+Australian Dollar,$,AUD,"Australia,Christmas Island,Cocos (Keeling) Islands (The),Heard Island And Mcdonald Islands,Kiribati,Nauru,Norfolk Island,Tuvalu",2,036
+Israeli Shekel,₪,ILS,"Israel",2,376
+New Zealand Dollar,$,NZD,"Cook Islands (The),New Zealand,Niue,Pitcairn,Tokelau",2,554
+Indonesian Rupiah,Rp,IDR,"Indonesia",2,360
+Philippine Peso,₱,PHP,"Philippines (The)",2,608
+Euro,€,EUR,"Andorra,Austria,Belgium,Cyprus,Estonia,European Union,Finland,France,French Guiana,French Southern Territories (The),Germany,Greece,Guadeloupe,Holy See (The),Ireland,Italy,Latvia,Lithuania,Luxembourg,Malta,Martinique,Mayotte,Monaco,Montenegro,Netherlands (The),Portugal,Réunion,Saint Barthélemy,Saint Martin (French Part),Saint Pierre And Miquelon,San Marino,Slovakia,Slovenia,Spain,Åland Islands",2,978
+Canadian Dollar,$,CAD,"Canada",2,124
+Chinese Yuan,¥,CNY,"China",2,156
+Hong Kong Dollar,$,HKD,"Hong Kong",2,344
+Indian Rupee,₨,INR,"Bhutan,India",2,356
+Mexican Peso,$,MXN,"Mexico",2,484
+Malaysian Ringgit,RM,MYR,"Malaysia",2,458
+South African Rand,R,ZAR,"Lesotho,Namibia,South Africa",2,710
+Thai Baht,฿,THB,"Thailand",2,764
+Singaporean Dollar,$,SGD,"Singapore",2,702
